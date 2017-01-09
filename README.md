@@ -21,3 +21,20 @@ $ node app.js
 内容录入页:http://localhost:3000/admin/movie
 
 首页:http://localhost:3000
+
+
+
+使用的技术
+node
+
+mongodb
+
+mongoose
+
+bootstrap
+
+jade
+
+understore
+
+express
