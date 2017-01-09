@@ -1,7 +1,7 @@
 # node-mongodb
 node+mongodb 建站demo
 
-开发
+## 开发
 
 $ git clone git@github.com:seric705/node-mongodb.git
 
@@ -13,7 +13,7 @@ $ bower install
 
 $ node app.js
 
-
+## 页面列表
 内容列表页:http://localhost:3000/admin/list
 
 内容详情页:http://localhost:3000/movie/+文章id
@@ -25,9 +25,7 @@ $ node app.js
 
 
 
-使用的技术
-
-
+## 工具
 node
 
 mongodb
@@ -41,3 +39,6 @@ jade
 understore
 
 express
+
+## License
+MIT
