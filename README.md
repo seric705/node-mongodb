@@ -15,6 +15,9 @@ $ node app.js
 
 
 内容列表页:http://localhost:3000/admin/list
+
 内容详情页:http://localhost:3000/movie/+文章id
+
 内容录入页:http://localhost:3000/admin/movie
+
 首页:http://localhost:3000
