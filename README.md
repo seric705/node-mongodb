@@ -24,7 +24,10 @@ $ node app.js
 
 
 
+
 使用的技术
+
+
 node
 
 mongodb
