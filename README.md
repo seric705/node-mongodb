@@ -2,7 +2,7 @@
 node+mongodb 建站demo
 
 ## 开发
-
+```
 $ git clone git@github.com:seric705/node-mongodb.git
 
 $ cd node-mongodb
@@ -12,7 +12,7 @@ $ npm install
 $ bower install
 
 $ node app.js
-
+```
 ## 页面列表
 内容列表页:http://localhost:3000/admin/list
 
