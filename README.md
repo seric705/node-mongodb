@@ -1,7 +1,9 @@
 # node-mongodb
+
 node+mongodb 建站demo
 
-## 开发
+## 开发xxx
+
 ```
 $ git clone git@github.com:seric705/node-mongodb.git
 
@@ -13,19 +15,19 @@ $ bower install
 
 $ node app.js
 ```
+
 ## 页面列表
-内容列表页:http://localhost:3000/admin/list
 
-内容详情页:http://localhost:3000/movie/+文章id
+内容列表页:[http://localhost:3000/admin/list](http://localhost:3000/admin/list)
 
-内容录入页:http://localhost:3000/admin/movie
+内容详情页:[http://localhost:3000/movie/+文章id](http://localhost:3000/movie/+文章id)
 
-首页:http://localhost:3000
+内容录入页:[http://localhost:3000/admin/movie](http://localhost:3000/admin/movie)
 
-
-
+首页:[http://localhost:3000](http://localhost:3000)
 
 ## 工具
+
 node
 
 mongodb
@@ -41,4 +43,6 @@ understore
 express
 
 ## License
+
 MIT
+
