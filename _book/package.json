@@ -1,0 +1,31 @@
+{
+  "name": "node-mongodb",
+  "version": "1.0.0",
+  "description": "node-mongodb movie",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "moment": "^2.17.1",
+    "mongoose": "^4.7.6",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "bcrypt": "^1.0.2",
+    "bluebird": "^3.4.7",
+    "connect-mongo": "^1.3.2",
+    "cookie-parser": "^1.4.3",
+    "express-session": "^1.14.2",
+    "morgan": "^1.7.0",
+    "session": "^0.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node-mongodb"
+  ],
+  "author": "seric",
+  "license": "ISC"
+}
