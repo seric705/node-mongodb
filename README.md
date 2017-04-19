@@ -2,7 +2,7 @@
 
 node+mongodb 建站demo
 
-## 开发xxx
+## 开发
 
 ```
 $ git clone git@github.com:seric705/node-mongodb.git
@@ -16,7 +16,7 @@ $ bower install
 $ node app.js
 ```
 
-## 页面列表
+## 页面列表x
 
 内容列表页:[http://localhost:3000/admin/list](http://localhost:3000/admin/list)
 
