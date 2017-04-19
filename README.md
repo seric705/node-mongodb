@@ -2,7 +2,7 @@
 
 node+mongodb 建站demo
 
-## 开发x
+## 开发
 
 ```
 $ git clone git@github.com:seric705/node-mongodb.git
@@ -26,7 +26,7 @@ $ node app.js
 
 首页:[http://localhost:3000](http://localhost:3000)
 
-## 工具
+## 工具 123
 
 node
 
